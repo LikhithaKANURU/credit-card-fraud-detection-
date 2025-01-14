@@ -31,9 +31,6 @@ This project focuses on detecting fraudulent credit card transactions using mach
 2. **Exploratory Data Analysis (EDA)**:
    - Visualization of transaction amounts and time.
    - Analysis of correlations between features.
-   - Example Visualizations:
-     - ![Distribution of Transaction Amounts](images/transaction_amount_distribution.png)
-     - ![Correlation Heatmap](images/correlation_heatmap.png)
 
 3. **Model Development**:
    - Trained various classifiers (e.g., Logistic Regression, Random Forest, Neural Networks).
@@ -41,9 +38,6 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 4. **Model Evaluation and Selection**:
    - Compared performance metrics to select the best-performing model.
-   - Example Visualizations:
-     - ![Confusion Matrix](images/confusion_matrix.png)
-     - ![Precision-Recall Curve](images/precision_recall_curve.png)
 
 ## Results
 - The model achieved high precision and recall, reducing false positives and negatives.
